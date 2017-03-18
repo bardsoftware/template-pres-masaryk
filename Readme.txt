@@ -1,26 +1,16 @@
 ** EN **
 
-Fibeamer for the Faculty of Social Studies at the Masaryk University in Brno. A template for fibeamer, the beamer theme for the type­set­ting of the­sis defense presentations at the Masaryk Univer­sity (Brno, Czech Repub­lic). For more information about the theme, see https://www.fi.muni.cz/lemma/projekty/fithesis3#fibeamer
-
-
-
+Fibeamer for the Faculty of Social Studies at the Masaryk University in Brno. A template for fibeamer, the beamer theme for the typesetting of thesis defense presentations at the Masaryk University (Brno, Czech Republic). For more information about the theme, see https://www.fi.muni.cz/lemma/projekty/fithesis3#fibeamer
 
 ** RU **
 
-Шаблон презентации для социологического факультета Масарикова университета.
-
-
+РЁР°Р±Р»РѕРЅ РїСЂРµР·РµРЅС‚Р°С†РёРё РґР»СЏ СЃРѕС†РёРѕР»РѕРіРёС‡РµСЃРєРѕРіРѕ С„Р°РєСѓР»СЊС‚РµС‚Р° РњР°СЃР°СЂРёРєРѕРІР° СѓРЅРёРІРµСЂСЃРёС‚РµС‚Р°.
 
 ===================================================
-
-
 
 Original sources: https://www.fi.muni.cz/lemma/projekty/fithesis3#fibeamer
 Author:           Vit Novotny
 License:          Creative Commons CC BY 4.0
 
-
-
 Status:           added by Papeeria Team, maintenance on demand
-
 Last update:      18 Mar 2017 
